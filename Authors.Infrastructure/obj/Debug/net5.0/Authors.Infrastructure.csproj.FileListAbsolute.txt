@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\bin\Debug\net5.0\Authors.Infrastructure.deps.json
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\bin\Debug\net5.0\Authors.Infrastructure.dll
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\bin\Debug\net5.0\ref\Authors.Infrastructure.dll
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\bin\Debug\net5.0\Authors.Infrastructure.pdb
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\bin\Debug\net5.0\Authors.Core.dll
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\bin\Debug\net5.0\Authors.Core.pdb
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\obj\Debug\net5.0\Authors.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\obj\Debug\net5.0\Authors.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\obj\Debug\net5.0\Authors.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\obj\Debug\net5.0\Authors.Infrastructure.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\obj\Debug\net5.0\Authors.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\obj\Debug\net5.0\Authors.Infrastructure.csproj.CopyComplete
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\obj\Debug\net5.0\Authors.Infrastructure.dll
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\obj\Debug\net5.0\ref\Authors.Infrastructure.dll
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Infrastructure\obj\Debug\net5.0\Authors.Infrastructure.pdb

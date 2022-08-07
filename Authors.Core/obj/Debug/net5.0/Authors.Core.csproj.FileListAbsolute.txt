@@ -1,0 +1,12 @@
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Core\bin\Debug\net5.0\Authors.Core.deps.json
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Core\bin\Debug\net5.0\Authors.Core.dll
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Core\bin\Debug\net5.0\ref\Authors.Core.dll
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Core\bin\Debug\net5.0\Authors.Core.pdb
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Core\obj\Debug\net5.0\Authors.Core.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Core\obj\Debug\net5.0\Authors.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Core\obj\Debug\net5.0\Authors.Core.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Core\obj\Debug\net5.0\Authors.Core.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Core\obj\Debug\net5.0\Authors.Core.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Core\obj\Debug\net5.0\Authors.Core.dll
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Core\obj\Debug\net5.0\ref\Authors.Core.dll
+C:\Users\MSI\Desktop\Technical Test\Authors\Authors.Core\obj\Debug\net5.0\Authors.Core.pdb

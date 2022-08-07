@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yocg79OG/V7s8F0OjQMtAFAmucQqAx8eue1UgUNf+3RIIOYbABwDrgAwSOzM8Pu6yVfcgabvpf5KED3cTvXDuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\Technical Test\\Authors\\Authors.Infrastructure\\Authors.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
